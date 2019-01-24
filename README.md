@@ -1,1 +1,1 @@
-playkit-js-chromecast
+playkit-js-utils
