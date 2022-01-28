@@ -89,7 +89,7 @@
   },
   "homepage": "https://github.com/kaltura/playkit-js-utils#readme",
   "dependencies": {
-    "js-logger": "^1.4.1",
+    "js-logger": "^1.6.1",
     "ua-parser-js": "^0.7.18"
   }
 }
